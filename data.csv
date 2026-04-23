@@ -1,0 +1,11 @@
+Year,ResidenceType,Walk,Cycle,CarDriver,CarPassenger,BusLondon,BusOther,Rail,AllModes
+2002 to 2003,Urban Conurbation,256,12,359,204,43,58,21,1009
+2002 to 2003,Urban City and Town,288,22,457,254,0,44,10,1100
+2002 to 2003,Rural Town and Fringe,272,16,501,256,0,32,6,1108
+2002 to 2003,Rural Village Hamlet and Isolated Dwelling,184,14,592,276,0,20,11,1123
+2002 to 2003,All areas,267,17,432,236,17,47,14,1067
+2023,Urban Conurbation,262,14,271,150,35,28,25,835
+2023,Urban City and Town,282,18,404,208,1,26,15,973
+2023,Rural Town and Fringe,258,11,444,192,0,15,13,955
+2023,Rural Village Hamlet and Isolated Dwelling,174,11,487,217,2,14,10,935
+2023,All areas,263,15,363,185,14,25,18,915
